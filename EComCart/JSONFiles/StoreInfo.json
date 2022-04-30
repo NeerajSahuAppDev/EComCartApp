@@ -1,0 +1,17 @@
+[{
+  "title": "Dairy",
+  "type": "dairy",
+  "image": "0.jpg",
+},{
+  "title": "Fruit",
+  "type": "fruit",
+  "image": "1.jpg",
+},{
+    "title": "Bakery",
+    "type": "bakery",
+    "image": "2.jpg",
+},{
+    "title": "Vegetable",
+    "type": "vegetable",
+    "image": "3.jpg",
+}]

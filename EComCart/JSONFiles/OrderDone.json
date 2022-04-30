@@ -1,0 +1,21 @@
+{
+  "destination":"accountName",
+  "orderData": [{
+      "id":0,
+      "title": "Brown eggs",
+      "type": "dairy",
+      "image": "0.jpg",
+      "price": 28.1,
+      "rating": 4
+    }, {
+      "id":1,
+      "title": "Sweet fresh stawberry",
+      "type": "fruit",
+      "image": "1.jpg",
+      "price": 29.45,
+      "rating": 4
+    }],
+    "orderPrice":"0",
+    "shipments": "Address"
+  }
+
