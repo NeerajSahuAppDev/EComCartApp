@@ -34,6 +34,7 @@ class ECC_StoreProductsHomeViewController: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
+        self.navigationController?.navigationBar.isHidden = false
         updateStoreData()
     }
 
